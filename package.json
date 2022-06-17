@@ -1,5 +1,5 @@
 {
-  "name": "POLICE__CCBT_TEST",
+  "name": "dopals-police",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -27,8 +27,8 @@
     "eject": "react-scripts eject",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install && npm run build"
   },
-  "description": "A computer based test for CCTI",
+  "description": "A computer based test for POLICE",
   "main": "index.js",
-  "author": "Gabriel Aniora <chybesta@gmail.com>",
+  "author": "umar abdullahi <umarbrowser20@gmail.com>",
   "license": "MIT"
 }
