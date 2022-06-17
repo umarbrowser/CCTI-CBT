@@ -17,8 +17,7 @@
     "typeface-roboto": "^0.0.54"
   },
   "engines": {
-    "node": "12.18.3",
-    "npm": "6.5.0"
+    "node": "12.18.3"
   },
   "scripts": {
     "start": "react-scripts start",
