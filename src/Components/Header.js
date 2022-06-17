@@ -40,7 +40,7 @@ function SimpleAppBar(props) {
       <AppBar color="default">
         <Toolbar className={classes.text}>
           <Typography className={classes.headline} variant="headline" color="inherit">
-            POLICE CBT {new Date().getFullYear()}
+            WELCOME TO POLICE CBT {new Date().getFullYear()}
           </Typography>
           <div style={{ display: "flex" }}>
             <div style={{ margin: "22px 18px", display: "flex" }}>
