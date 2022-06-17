@@ -46,14 +46,9 @@ class Landing extends React.Component {
           </Typography>
           <Divider className={classes.divider} />
           <Typography variant='body2' component='p'>
-            Instructions
-            <ol>
-              <l>instruction</l>
-              <l>instruction</l>
-              <l>instruction</l>
-              <l>instruction</l>
-              <l>instruction</l>
-            </ol>
+            1. instruction for the example<br/>
+            2. instruction for the example<br/>
+            3. instruction for the example<br/>
           </Typography>
         </Paper>
       </div>
