@@ -43,12 +43,12 @@ export default class Results extends Component {
                   <td> {candidateRecord.score} </td>
                   <td>
                     {' '}
-                    30 mins,{' '}
+                     1 Hour,{' '}
                     {candidateRecord.used === `Timed Up`
                       ? `Timed Up`
                       : `Used ${candidateRecord.used}`}{' '}
                   </td>
-                  <td> 50 </td>
+                  <td> 60 </td>
                 </tr>
               ))}
             </tbody>
