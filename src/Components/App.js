@@ -166,10 +166,10 @@ class App extends React.Component {
                 </center> : null}
                 {this.state.authenticated === true ? null : <center>
                   <Typography variant="subheading" gutterBottom>
-                    Or
+                   
                   </Typography>
                   <Button variant="contained" color="primary" onClick={this.handleGuestSignIn}>
-                    {activeStep === steps.length - 1 ? 'Start Test' : ''}
+                    Start Test
                   </Button>
                 </center>}
               </div>
