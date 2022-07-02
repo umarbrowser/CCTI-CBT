@@ -169,7 +169,7 @@ class App extends React.Component {
                     Or
                   </Typography>
                   <Button variant="contained" color="primary" onClick={this.handleGuestSignIn}>
-                    {activeStep === steps.length - 1 ? 'Start Test' : 'Sign in as guest'}
+                    {activeStep === steps.length - 1 ? 'Start Test' : ''}
                   </Button>
                 </center>}
               </div>
