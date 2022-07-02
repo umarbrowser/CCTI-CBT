@@ -248,21 +248,11 @@ class SubmitResponse extends Component {
                           <Typing.Delay ms={1500} />
                         </li>
                         <li className={classes.li}>
-                          {' '}
-                          our score {guestScore}
+                  
+                          You Score: {guestScore} out of 60 Questions
                           <Typing.Delay ms={1500} />{' '}
                         </li>
-                        <li className={classes.li}> </li>
-                        <li className={classes.li}>
-                          {' '}
-                          Sorry I made a mistake... <Typing.Delay
-                            ms={1500}
-                          />{' '}
-                        </li>
-                        <li className={classes.li}>
-                          {' '}
-                          It will be out by tomorrow or next.
-                        </li>
+              
                       </ul>
                     </Typography>
                   </Typing>
