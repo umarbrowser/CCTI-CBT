@@ -249,9 +249,8 @@ class SubmitResponse extends Component {
                         </li>
                         <li className={classes.li}>
                           {' '}
-                          You will get your score <Typing.Delay
-                            ms={1500}
-                          />{' '}
+                          our score {guestScore}
+                          <Typing.Delay ms={1500} />{' '}
                         </li>
                         <li className={classes.li}> </li>
                         <li className={classes.li}>

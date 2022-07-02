@@ -38,6 +38,7 @@ export default class Results extends Component {
               {this.state.candidatesRecord.map((candidateRecord) => (
                 <tr key={candidateRecord.candidateRecordNo}>
                   <td> {candidateRecord.candidateRecordNo} </td>
+                  <td> {candidateRecord.candidateData[1].regNo} </td>
                   <td> {candidateRecord.candidateData[0].fullName} </td>
                   <td> {candidateRecord.score} </td>
                   <td>
