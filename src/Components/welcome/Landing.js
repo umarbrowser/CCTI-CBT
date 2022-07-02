@@ -45,11 +45,6 @@ class Landing extends React.Component {
             Welcome TO POLICE CBT {new Date().getFullYear()}
           </Typography>
           <Divider className={classes.divider} />
-          <Typography variant='body2' component='p'>
-            1. instruction for the example<br/>
-            2. instruction for the example<br/>
-            3. instruction for the example<br/>
-          </Typography>
         </Paper>
       </div>
     )

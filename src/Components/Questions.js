@@ -1,181 +1,183 @@
 module.exports = [
   {
     id: 1,
-    label: 'What is a Computer?',
+    label: 'In Nigeria, how many ethnic groups are there?',
     obj: {
       ques: 1,
-      ans: 'An electronic machine',
-      opt1: 'An electronic machine',
-      opt2: 'A gabage in gabage out',
-      opt3: 'An electric calculator',
-      opt4: 'A television'
-    }
+      ans: '250',
+      opt1: '140',
+      opt2: '250',
+      opt3: '30',
+      opt4: '200',
+    },
   },
   {
     id: 2,
-    label: 'What does computer raw fact mean?',
+    label: 'Nigerians now celebrate Democracy Day when?',
     obj: {
       ques: 2,
-      ans: 'A data',
-      opt1: 'An information',
-      opt2: 'A piece of hardware',
-      opt3: 'A data',
-      opt4: 'A processed'
-    }
+      ans: 'June 12th',
+      opt1: 'June 7th',
+      opt2: 'May 29th',
+      opt3: 'December 24th',
+      opt4: 'June 12th',
+    },
   },
   {
     id: 3,
-    label: 'A Robot is an example of ................ generation of computer?',
+    label: 'Who is the present caliph of Sokoto, the Sultan of Sokoto?',
     obj: {
       ques: 3,
-      ans: 'Fifth Generation',
-      opt1: 'First Generation',
-      opt2: 'Second Generation',
-      opt3: 'Third Generation',
-      opt4: 'Fifth Generation'
-    }
+      ans: 'Muhammadu Salad Abubakar',
+      opt1: 'Modibbo Adama',
+      opt2: 'Muhammadu Salad Abubakar',
+      opt3: 'Ado Bayero',
+      opt4: 'Malam Zaki',
+    },
   },
   {
     id: 4,
-    label: 'ATM is a Pc?',
+    label: 'Who is the current Governor of Nigeria’s Central Bank?',
     obj: {
       ques: 4,
-      ans: 'False',
-      opt1: 'True',
-      opt2: 'False'
-    }
+      ans: 'Godwin Emefiele',
+      opt1: 'Prof Isah Ali Pantami',
+      opt2: 'Sunusi Lamido Sunusi',
+      opt3: 'Ibrahim Hassan Dankwambo',
+      opt4: 'Godwin Emefiele',
+    },
   },
   {
     id: 5,
-    label: 'Which among these is an input device?',
+    label: 'Who is Nigeria’s Education Minister?',
     obj: {
       ques: 5,
-      ans: 'Mouse',
-      opt1: 'Cursor',
-      opt2: 'Mouse',
-      opt3: 'Pointer',
-      opt4: 'Printer'
-    }
+      ans: 'Adamu Adamu',
+      opt1: 'Atiku Abubakar',
+      opt2: 'Sunusi Lamido Sunusi',
+      opt3: 'Adamu Adamu',
+      opt4: 'Prof Isah Ali Pantami',
+    },
   },
   {
     id: 6,
-    label: '_________________computers are used for counting and calculation ',
+    label: 'What does the abbreviation ECOMOG stand for?',
     obj: {
       ques: 6,
-      ans: 'Digital',
-      opt1: 'Hybrid',
-      opt2: 'Analogue',
-      opt3: 'Mainframe',
-      opt4: 'Digital'
-    }
+      ans: 'Economic Community Monitoring Group',
+      opt1: 'Economic Communication Monitoring Group',
+      opt2: 'Environmental Common Monitoring Group',
+      opt3: 'Ethnic Community Mentor Group',
+      opt4: 'Economic Community Monitoring Group',
+    },
   },
   {
     id: 7,
-    label: 'Information can be obtained from _________________',
+    label: 'What is Africa’s tallest mountain?',
     obj: {
       ques: 7,
-      ans: 'All of the above',
-      opt1: 'Radio',
-      opt2: 'Television, newspaper ',
-      opt3: 'Library, chats ',
-      opt4: 'All of the above'
-    }
+      ans: 'Tanzania’s Mount Kilimanjaro',
+      opt1: 'Tanzania’s Mount Kilimanjaro',
+      opt2: 'Zuma Rock of Nigeria',
+      opt3: 'Gombe Mountain',
+      opt4: 'Monbila Mountain',
+    },
   },
   {
     id: 8,
-    label: 'The numeric keys produce _________ in the lowercase and _________ after pressing the shift key',
+    label: 'When did Nigeria cut ties with Israel diplomatically?',
     obj: {
       ques: 8,
-      ans: 'Numbers and symbols',
-      opt1: 'Numbers and functions',
-      opt2: 'Numbers and symbols',
-      opt3: 'Symbols and abomination',
-      opt4: 'None of the above'
-    }
+      ans: '1972',
+      opt1: '1960',
+      opt2: '1999',
+      opt3: '1972',
+      opt4: '1989',
+    },
   },
   {
     id: 9,
-    label: 'which generation of computer made use of I.C?',
+    label: 'Who was the founder of the Nigerian Council?',
     obj: {
       ques: 9,
-      ans: 'Third Generation',
-      opt1: 'First Generation',
-      opt2: 'Second Generation',
-      opt3: 'Third Generation',
-      opt4: 'Fourth Generation'
-    }
+      ans: 'Frederick Lugard',
+      opt1: 'Abubakar Tafawa Balewa',
+      opt2: 'Frederick Lugard',
+      opt3: 'Muhammadu Buhari',
+      opt4: 'Nnamdi Azikwe',
+    },
   },
   {
     id: 10,
-    label: 'The computer has an _________ and _________ part',
+    label: 'which Western nation does Nigeria share borders?',
     obj: {
       ques: 10,
-      ans: 'Input, output',
-      opt1: 'Input, outpit',
-      opt2: 'Inpit, outpit',
-      opt3: 'Input, output',
-      opt4: 'All of the above'
-    }
+      ans: 'Benin Republic',
+      opt1: 'Chad',
+      opt2: 'Ghana',
+      opt3: 'Benin Republic',
+      opt4: 'South Africa',
+    },
   },
   {
     id: 11,
-    label: 'Where can you watch football games?',
+    label: 'Who is Nigeria’s current Senate President?',
     obj: {
       ques: 11,
-      ans: 'Computer and television',
-      opt1: 'Disk and cassettes',
-      opt2: 'Computer and television',
-      opt3: 'Radio and television',
-      opt4: 'Screen and monitors'
-    }
+      ans: 'Ahmed Ibrahim Lawan',
+      opt1: 'Danjuma Goje',
+      opt2: 'Rabiu Musa Kwankwoso',
+      opt3: 'Peter Obi',
+      opt4: 'Ahmed Ibrahim Lawan',
+    },
   },
   {
     id: 12,
-    label: 'How is printing done?',
+    label: 'What is the world’s smallest Continent in the World?',
     obj: {
       ques: 12,
-      ans: 'By placing paper in the input tray and issue a command for printing',
-      opt1: 'By typing on a paper ',
-      opt2: 'By photocoping',
-      opt3: 'By placing paper in the input tray and issue a command for printing',
-      opt4: 'None of the above '
-    }
+      ans: 'Australia',
+      opt1: 'Africa',
+      opt2: 'Nigeria',
+      opt3: 'Asia',
+      opt4: 'Australia',
+    },
   },
   {
     id: 13,
-    label: '____________key makes a command to be executed or moves the cursor to the beginning of another line',
+    label: 'Her thinking leans ____ democracy.',
     obj: {
       ques: 13,
-      ans: 'Enter key',
-      opt1: 'Shift key',
-      opt2: 'Enter key',
-      opt3: 'Scroll bar key',
-      opt4: 'Esc key'
-    }
+      ans: 'towards',
+      opt1: 'with',
+      opt2: 'for',
+      opt3: 'towards',
+      opt4: 'None of those',
+    },
   },
   {
     id: 14,
-    label: 'What is the function of the C.P.U?',
+    label: 'He got too tired _____ over work.',
     obj: {
       ques: 14,
-      ans: 'It conducts all the computer operations',
-      opt1: 'It conducts all the computer operations',
-      opt2: 'It conducts only ALU operations',
-      opt3: 'It conducts only memory unit operations ',
-      opt4: 'None of the above '
-    }
+      ans: 'because of',
+      opt1: 'on',
+      opt2: 'because off',
+      opt3: 'for',
+      opt4: 'because of',
+    },
   },
   {
     id: 15,
-    label: 'V.G.A stands for ___________',
+    label: 'Choose the correct sentence.',
     obj: {
       ques: 15,
-      ans: 'Video graphic adapter',
-      opt1: 'Versatile graphic adapter',
-      opt2: 'Visual grape adapter',
-      opt3: 'Video graphic adapter',
-      opt4: 'None of the above '
-    }
+      ans: 'My friend has got a new job.',
+      opt1: 'My friend did got a new job.',
+      opt2: 'My friend has got a new job.',
+      opt3: 'My friend is got a new job.',
+      opt4: 'My friend did got a new job.',
+    },
   },
   {
     id: 16,
@@ -186,20 +188,21 @@ module.exports = [
       opt1: 'Bets',
       opt2: 'Bits',
       opt3: 'Bytes',
-      opt4: 'Megas'
-    }
+      opt4: 'Megas',
+    },
   },
   {
     id: 17,
-    label: '__________ are used in specialised activities that are dangerous or tedious for humans',
+    label:
+      '__________ are used in specialised activities that are dangerous or tedious for humans',
     obj: {
       ques: 17,
       ans: 'Robots',
       opt1: 'Computers',
       opt2: 'Joystick ',
       opt3: 'Robots',
-      opt4: 'Military weapons'
-    }
+      opt4: 'Military weapons',
+    },
   },
   {
     id: 18,
@@ -210,8 +213,8 @@ module.exports = [
       opt1: 'It is just a device',
       opt2: 'It is a device used by a computer to bring out a hard copy of printout results',
       opt3: 'It is a photocopier',
-      opt4: 'All of the above'
-    }
+      opt4: 'All of the above',
+    },
   },
   {
     id: 19,
@@ -222,8 +225,8 @@ module.exports = [
       opt1: 'Monitor',
       opt2: 'Mouse ',
       opt3: 'System unit',
-      opt4: 'UPS'
-    }
+      opt4: 'UPS',
+    },
   },
   {
     id: 20,
@@ -234,20 +237,21 @@ module.exports = [
       opt1: 'Mainframe computer',
       opt2: 'Personal computer',
       opt3: 'Mini computer',
-      opt4: 'Micro computer'
-    }
+      opt4: 'Micro computer',
+    },
   },
   {
     id: 21,
-    label: 'The rectangular box or frame that displays the properties of an environment in the computer is ____________',
+    label:
+      'The rectangular box or frame that displays the properties of an environment in the computer is ____________',
     obj: {
       ques: 21,
       ans: 'Window',
       opt1: 'Start Menu',
       opt2: 'Window',
       opt3: 'Task bar',
-      opt4: 'Desktop'
-    }
+      opt4: 'Desktop',
+    },
   },
   {
     id: 22,
@@ -258,8 +262,8 @@ module.exports = [
       opt1: 'Mouse',
       opt2: 'Monitor and system unit',
       opt3: 'A and B',
-      opt4: 'All of the above '
-    }
+      opt4: 'All of the above ',
+    },
   },
   {
     id: 23,
@@ -270,8 +274,8 @@ module.exports = [
       opt1: 'It is a utility software',
       opt2: 'It is a software that is specially designed for one kind of activity',
       opt3: 'It is a program',
-      opt4: 'Instructions'
-    }
+      opt4: 'Instructions',
+    },
   },
   {
     id: 24,
@@ -282,8 +286,8 @@ module.exports = [
       opt1: 'It is the data that is been fed into the computer',
       opt2: 'It is the gabbage given to the computer',
       opt3: 'It is letters',
-      opt4: 'None of the above'
-    }
+      opt4: 'None of the above',
+    },
   },
   {
     id: 25,
@@ -294,8 +298,8 @@ module.exports = [
       opt1: 'National Director of Empowerment',
       opt2: 'National Director of Employment',
       opt3: 'National Directorate of Empowerment',
-      opt4: 'National Directorate of Employment'
-    }
+      opt4: 'National Directorate of Employment',
+    },
   },
   {
     id: 26,
@@ -306,8 +310,8 @@ module.exports = [
       opt1: 'Listen to music',
       opt2: 'Learn',
       opt3: 'Draw, type',
-      opt4: 'All of the above'
-    }
+      opt4: 'All of the above',
+    },
   },
   {
     id: 27,
@@ -318,20 +322,21 @@ module.exports = [
       opt1: 'CPU',
       opt2: 'Computer',
       opt3: 'Memory unit',
-      opt4: 'All of the above'
-    }
+      opt4: 'All of the above',
+    },
   },
   {
     id: 28,
-    label: 'All of these are importance of a computer program `Mavis Beacon` except ___________',
+    label:
+      'All of these are importance of a computer program `Mavis Beacon` except ___________',
     obj: {
       ques: 28,
       ans: 'It shows a game',
       opt1: 'It gives typing skill',
       opt2: 'It shows how to place fingers on the keyboard',
       opt3: 'It increases typing speed',
-      opt4: 'It shows a game'
-    }
+      opt4: 'It shows a game',
+    },
   },
   {
     id: 29,
@@ -342,8 +347,8 @@ module.exports = [
       opt1: 'Mouse',
       opt2: 'Mice',
       opt3: 'Lice',
-      opt4: 'Joystick'
-    }
+      opt4: 'Joystick',
+    },
   },
   {
     id: 30,
@@ -354,20 +359,21 @@ module.exports = [
       opt1: 'Radio',
       opt2: 'Sreen',
       opt3: 'Television',
-      opt4: 'Mirror'
-    }
+      opt4: 'Mirror',
+    },
   },
   {
     id: 31,
-    label: 'The process every computer must pass through before use is ___________',
+    label:
+      'The process every computer must pass through before use is ___________',
     obj: {
       ques: 31,
       ans: 'Booting',
       opt1: 'Loading',
       opt2: 'Windows xp',
       opt3: 'Booting',
-      opt4: 'Processing'
-    }
+      opt4: 'Processing',
+    },
   },
   {
     id: 32,
@@ -378,8 +384,8 @@ module.exports = [
       opt1: 'Go In Go Out',
       opt2: 'Get In Get Out',
       opt3: 'Going In Going Out',
-      opt4: 'Gabage In Gabage Out'
-    }
+      opt4: 'Gabage In Gabage Out',
+    },
   },
   {
     id: 33,
@@ -390,8 +396,8 @@ module.exports = [
       opt1: 'Universal Serial Bus',
       opt2: 'Uniform Serving Bus',
       opt3: 'Universe Station Bus',
-      opt4: 'Unity Serial Bus'
-    }
+      opt4: 'Unity Serial Bus',
+    },
   },
   {
     id: 34,
@@ -402,8 +408,8 @@ module.exports = [
       opt1: 'Peoples Computer',
       opt2: 'Personal Computer',
       opt3: 'Power Computer',
-      opt4: 'Unity Serial Bus'
-    }
+      opt4: 'Unity Serial Bus',
+    },
   },
   {
     id: 35,
@@ -414,8 +420,8 @@ module.exports = [
       opt1: 'Paint',
       opt2: 'Microsoft Paint',
       opt3: 'Ms Paint',
-      opt4: 'Mspaint'
-    }
+      opt4: 'Mspaint',
+    },
   },
   {
     id: 36,
@@ -426,20 +432,21 @@ module.exports = [
       opt1: 'Windows 7',
       opt2: 'Windows 8',
       opt3: 'Windows 9',
-      opt4: 'Windows 10'
-    }
+      opt4: 'Windows 10',
+    },
   },
   {
     id: 37,
-    label: 'What are the small pictures that you click on to start an application called?',
+    label:
+      'What are the small pictures that you click on to start an application called?',
     obj: {
       ques: 37,
       ans: 'icons',
       opt1: 'folders',
       opt2: 'programs',
       opt3: 'icons',
-      opt4: 'pictures'
-    }
+      opt4: 'pictures',
+    },
   },
   {
     id: 38,
@@ -450,8 +457,8 @@ module.exports = [
       opt1: 'Undo',
       opt2: 'Redo',
       opt3: 'Copy',
-      opt4: 'Paste'
-    }
+      opt4: 'Paste',
+    },
   },
   {
     id: 39,
@@ -462,8 +469,8 @@ module.exports = [
       opt1: 'Undo',
       opt2: 'Redo',
       opt3: 'Copy',
-      opt4: 'Paste'
-    }
+      opt4: 'Paste',
+    },
   },
   {
     id: 40,
@@ -472,8 +479,8 @@ module.exports = [
       ques: 40,
       ans: 'True',
       opt1: 'True',
-      opt2: 'False'
-    }
+      opt2: 'False',
+    },
   },
   {
     id: 41,
@@ -484,8 +491,8 @@ module.exports = [
       opt1: 'A requirement from the computer',
       opt2: 'A question given to the computer',
       opt3: 'A set of instrument given to the computer',
-      opt4: 'A set of instruction given to the computer on its own language'
-    }
+      opt4: 'A set of instruction given to the computer on its own language',
+    },
   },
   {
     id: 42,
@@ -496,8 +503,8 @@ module.exports = [
       opt1: 'A raw material',
       opt2: 'An information',
       opt3: 'A command',
-      opt4: 'None of the above'
-    }
+      opt4: 'None of the above',
+    },
   },
   {
     id: 43,
@@ -507,19 +514,20 @@ module.exports = [
       ans: 'False',
       opt1: 'True',
       opt2: 'False',
-    }
+    },
   },
   {
     id: 44,
-    label: 'The physical part of the computer that we can touch, see and carry about is called?',
+    label:
+      'The physical part of the computer that we can touch, see and carry about is called?',
     obj: {
       ques: 44,
       ans: 'Hardware',
       opt1: 'Software',
       opt2: 'Hardware',
       opt3: 'Softcopy',
-      opt4: 'Hardcopy'
-    }
+      opt4: 'Hardcopy',
+    },
   },
   {
     id: 45,
@@ -530,8 +538,8 @@ module.exports = [
       opt1: 'Power On the system',
       opt2: 'Boot the system',
       opt3: 'Refresh the memory of the system',
-      opt4: 'Process data'
-    }
+      opt4: 'Process data',
+    },
   },
   {
     id: 46,
@@ -542,8 +550,8 @@ module.exports = [
       opt1: 'Syphy',
       opt2: 'Trokiter',
       opt3: 'Virus',
-      opt4: 'sprokiter'
-    }
+      opt4: 'sprokiter',
+    },
   },
   {
     id: 47,
@@ -554,8 +562,8 @@ module.exports = [
       opt1: 'Cd Rom',
       opt2: 'Power Supply Unit',
       opt3: 'Connector',
-      opt4: 'Harddisk'
-    }
+      opt4: 'Harddisk',
+    },
   },
   {
     id: 48,
@@ -566,8 +574,8 @@ module.exports = [
       opt1: 'kasperse',
       opt2: 'Avast',
       opt3: 'Trokiter',
-      opt4: 'Newton'
-    }
+      opt4: 'Newton',
+    },
   },
   {
     id: 49,
@@ -578,8 +586,8 @@ module.exports = [
       opt1: 'In the G.U.I',
       opt2: 'In the D.P.O',
       opt3: 'In the R.P.O',
-      opt4: 'In the C.P.U'
-    }
+      opt4: 'In the C.P.U',
+    },
   },
   {
     id: 50,
@@ -590,8 +598,7 @@ module.exports = [
       opt1: 'A.L.U',
       opt2: 'D.P.O',
       opt3: 'R.P.O',
-      opt4: 'C.P.U'
-    }
+      opt4: 'C.P.U',
+    },
   },
-
-];
+]

@@ -43,7 +43,7 @@ class Instruction extends React.Component {
               <Typing.Delay ms={500} />
             </Typography>
             <Typography className={classes.text} variant='body2' component='p'>
-              You have 50 questions <Typing.Delay ms={1000} />
+              You have 60 questions <Typing.Delay ms={1000} />
             </Typography>
             <Typography className={classes.text} variant='body2' component='p'>
               30 minutes to answer all <Typing.Delay ms={1000} />

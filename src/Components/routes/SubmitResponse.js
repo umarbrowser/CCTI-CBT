@@ -244,13 +244,14 @@ class SubmitResponse extends Component {
                         </li>
                         <li className={classes.li}>
                           {' '}
-                          Sirgeb's Robot has recorded your score{' '}
+                          Instructor has recorded your score{' '}
                           <Typing.Delay ms={1500} />
                         </li>
                         <li className={classes.li}>
                           {' '}
-                          You will get your score next year{' '}
-                          <Typing.Delay ms={1500} />{' '}
+                          You will get your score <Typing.Delay
+                            ms={1500}
+                          />{' '}
                         </li>
                         <li className={classes.li}> </li>
                         <li className={classes.li}>

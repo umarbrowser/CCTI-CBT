@@ -115,8 +115,7 @@ class TextFields extends React.Component {
               <MenuItem value=''>
                 <em>None</em>
               </MenuItem>
-              <MenuItem value='BEGINNER'>BEGINNER</MenuItem>
-              <MenuItem value='INTERMIDIATE'>INTERMIDIATE</MenuItem>
+              <MenuItem value='INTERMIDIATE'>CBT</MenuItem>
             </Select>
           </FormControl>
         </form>

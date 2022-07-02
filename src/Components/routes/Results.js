@@ -21,9 +21,7 @@ export default class Results extends Component {
 
     return (
       <center>
-        <h2 style={{ textAlign: 'center' }}>
-          Admas I.T Place Students Result Sheet
-        </h2>
+        <h2 style={{ textAlign: 'center' }}>Police CBT Result Sheet</h2>
         <table border='1' style={{ marginTop: 30, width: '1000px' }}>
           <thead>
             <tr>
