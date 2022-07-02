@@ -42,12 +42,17 @@ class Landing extends React.Component {
       <div>
         <Paper className={classes.root} elevation={0}>
           <Typography variant='headline' component='h3'>
-            Welcome TO POLICE CBT {new Date().getFullYear()}
+            Welcome To Nigerian Police Computer Based Test{new Date().getFullYear()}
           </Typography>
           <Divider className={classes.divider} />
           <Typography variant='body2' component='p'>
-            Answer All Questions
+            1. Input Your Registration Number 
             <br />
+2. Select CBT as your Exam Type
+            <br />
+3. Click Next to Start the Exam
+<br />
+4. Answer All Questions
           </Typography>
         </Paper>
       </div>
