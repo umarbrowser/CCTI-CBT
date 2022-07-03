@@ -39,7 +39,7 @@ export default class Results extends Component {
                 <tr key={candidateRecord.candidateRecordNo}>
                   <td> {candidateRecord.candidateRecordNo} </td>
        
-                  <td> {candidateRecord.candidateData} </td>
+                  <td> {candidateRecord.candidateData[0].regNo} </td>
                   <td> {candidateRecord.score} </td>
                   <td>
                     {' '}
