@@ -26,7 +26,7 @@ export default class Results extends Component {
           <thead>
             <tr>
               <th> Serial No </th>
-              <th> Names </th>
+              <th> Registration Number </th>
               <th> Scores </th>
               <th> Candidates Exam Time </th>
               <th> No. of Questions </th>
@@ -39,7 +39,7 @@ export default class Results extends Component {
                 <tr key={candidateRecord.candidateRecordNo}>
                   <td> {candidateRecord.candidateRecordNo} </td>
        
-                  <td> {candidateRecord.candidateData[0].fullName} </td>
+                  <td> {candidateRecord.candidateData[1].regNo} </td>
                   <td> {candidateRecord.score} </td>
                   <td>
                     {' '}

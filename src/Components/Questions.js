@@ -28,9 +28,9 @@ module.exports = [
     label: 'Who is the present caliph of Sokoto, the Sultan of Sokoto?',
     obj: {
       ques: 3,
-      ans: 'Muhammadu Salad Abubakar',
+      ans: 'Muhammad Saad Abubakar',
       opt1: 'Modibbo Adama',
-      opt2: 'Muhammadu Salad Abubakar',
+      opt2: 'Muhammad Saad Abubakar',
       opt3: 'Ado Bayero',
       opt4: 'Malam Zaki',
     },
