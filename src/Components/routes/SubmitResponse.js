@@ -211,11 +211,6 @@ class SubmitResponse extends Component {
                           {' '}
                           <Typing.Delay ms={1500} />
                           Hi - <Typing.Delay ms={1000} />{' '}
-                          <strong>
-                            {' '}
-                            guest <i>!</i>{' '}
-                          </strong>{' '}
-                          <Typing.Delay ms={500} />{' '}
                         </li>
                         <li className={classes.li}>
                           {' '}
